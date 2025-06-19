@@ -1,8 +1,22 @@
 # 📝 منصة الاختبارات الإلكترونية | Online Exam Platform
 
 ### 🎯 نظام اختبارات إلكتروني متكامل مع إدارة للأجهزة والإشعارات ونظام دفع متطور
-![معاينة النظام](https://aldhihaexams.com/onlinevi.gif)
+## 📹 صفحة قائمة الاختبارات
+![](https://github.com/albna3681/Private-e-learning-platform-with-courses-videos-interactive-exams/blob/87bcb3d7eb370d613aa7e86256448f64320e41b0/FireShot_Capture_028_%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA_aldhihaexams_com.png)
 
+## 📹 صفحة الاختبار وعرض الاسئلة
+![](https://github.com/albna3681/Private-e-learning-platform-with-courses-videos-interactive-exams/blob/87bcb3d7eb370d613aa7e86256448f64320e41b0/FireShot%20Capture%20031%20-%20%20-%20%5Baldhihaexams.com%5D.png)
+
+## 📹 صفحة اخر سؤال في الاختبار
+![](https://github.com/albna3681/Private-e-learning-platform-with-courses-videos-interactive-exams/blob/87bcb3d7eb370d613aa7e86256448f64320e41b0/FireShot%20Capture%20031%20-%20%20-%20%5Baldhihaexams.com%5D.png)
+## 📹 صفحة نتيجة الاختبار 
+![](https://github.com/albna3681/Private-e-learning-platform-with-courses-videos-interactive-exams/blob/87bcb3d7eb370d613aa7e86256448f64320e41b0/FireShot_Capture_033_%D9%86%D8%AA%D8%A7%D8%A6%D8%AC_%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1_aldhihaexams_com.png)
+
+##
+📹 صفحة تفسير وشرح تفسير الاسئلة
+![](https://github.com/albna3681/Private-e-learning-platform-with-courses-videos-interactive-exams/blob/87bcb3d7eb370d613aa7e86256448f64320e41b0/FireShot_Capture_034_%D8%A7%D9%84%D8%A7%D8%AC%D8%A7%D8%A8%D8%A7%D8%AA_%D8%A7%D9%84%D8%AA%D9%81%D8%B5%D9%8A%D9%84%D9%8A%D8%A9_aldhihaexams_com.png)
+## 📹 احصائيات الموقع
+![](https://github.com/albna3681/Private-e-learning-platform-with-courses-videos-interactive-exams/blob/87bcb3d7eb370d613aa7e86256448f64320e41b0/FireShot_Capture_035_%D8%A5%D8%AD%D8%B5%D8%A7%D8%A6%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D8%B7%D8%A7%D9%84%D8%A8_aldhihaexams_com.png)
 ## 🌟 نظرة عامة على المنصة
 
 منصة اختبارات إلكترونية متطورة مصممة للمؤسسات التعليمية والمدرسين، توفر بيئة آمنة ومتقدمة لإجراء الاختبارات عبر الإنترنت مع نظام إشعارات شامل وتحكم دقيق في عدد الأجهزة المسموحة لكل طالب، بالإضافة لنظام دفع إلكتروني متكامل.
